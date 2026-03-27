@@ -1,0 +1,32 @@
+# =========================
+# OS-generated files
+# =========================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Temporary files
+# =========================
+
+*.tmp
+*.temp
+*.log
+
+# =========================
+# Audio project leftovers
+# =========================
+
+*.als       # Ableton Live
+*.flp       # FL Studio
+*.logicx    # Logic Pro
+*.ptx       # Pro Tools
+
+# =========================
+# Misc
+# =========================
+
+*.bak
+*.swp
+*.old
