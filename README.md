@@ -35,7 +35,7 @@ These samples work with:
 ## 📦 Download
 
 👉 Download the free pack here:
-**[Download Free SR-16 Samples](../../releases/latest)**
+**[Download Free SR-16 Samples](../../releases/latest/download/pulse16-free-sr16-samples.zip)**
 
 ---
 
