@@ -1,8 +1,15 @@
 # 🥁 Free Alesis SR-16 Drum Samples (WAV)
 
-A free drum sample pack from the legendary **Alesis SR-16 drum machine**, used in countless recordings since the 90s.
+This pack includes 5 carefully sampled WAV files from the original Alesis SR-16 hardware, captured from factory "Drumset 00".
 
-This pack includes carefully sampled WAV files from the real hardware, ready to use in any DAW or sampler.
+A small but highly usable selection of classic drum machine sounds, ready for modern production.
+
+Included sounds:
+- Kick
+- Snare
+- Closed Hi-Hat
+- Open Hi-Hat
+- Claps
 
 ---
 
